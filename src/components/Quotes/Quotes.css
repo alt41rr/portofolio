@@ -1,0 +1,11 @@
+.quote-card {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .title-section {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
